@@ -1,2 +1,4 @@
 # nodejs_sample_application
-nodejs monitoring sample
+nodejs Whatap monitoring sample
+
+simple http serving application
